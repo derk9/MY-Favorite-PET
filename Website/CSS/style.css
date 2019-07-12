@@ -1,0 +1,37 @@
+.contain {
+  display: block;
+  background-color: lightgrey;
+}
+
+.inline_block {
+  display: inline-block;
+  background-color: gray;
+  padding: 20px;
+}
+
+.right{
+  display: inline-block;
+  width: 71%;
+  height: 500px;
+  background-color: lightgreen;
+}
+
+.left {
+  display: inline-block;
+  width: 29%;
+  height: 500px;
+  background-color: lightblue;
+  float: left;
+}
+.left_text {
+  padding: 20%;
+}
+
+.right_text{
+  width: 45%;
+  float: right;
+  padding: 75px;
+}
+.happy {
+  padding: 10px;
+}
